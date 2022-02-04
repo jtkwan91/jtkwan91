@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtkwan91
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning react, mySQL, express
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me jtkwan91@gmail.com
 
